@@ -201,6 +201,11 @@ others:
       description: 'An interactive sandbox that visualizes the relationship between mutations and query keys.',
     },
     {
+      title: 'tanstack-fetch',
+      url: 'https://github.com/mohamadgarmabi/tanstack-fetch',
+      description: 'A fetch client built for queryFn: returns data, throws typed errors, respects AbortSignal. Includes auth/refresh interceptors, SSR cookie forwarding and SSE.',
+    },
+    {
       title: 'ts-rest',
       url: 'https://ts-rest.com/',
       description: 'Incrementally adoptable type-safety for your new and existing APIs',
